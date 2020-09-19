@@ -1,1 +1,1 @@
-# HoncHous Diabetes Prediction
+# Diabetes Prediction
